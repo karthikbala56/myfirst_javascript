@@ -1,0 +1,30 @@
+Ds
+    Frontend----->(html,css,javascript)-------->Database
+          <----------    JSON------------->(RestAPI)
+
+          let UserName ="karthik"; //datatype single value 
+          
+          Object 
+          multiple data inside the objects
+
+          totally 8 datatypes availaible in JS
+         7 data types primitive
+         String
+         Number
+         Boolean
+         Null- empty value
+         undefined- value you not assign to the varaible
+         BigInt- long Number
+         Symbol
+
+
+         1 was objects -non primitive(complexdata)
+
+         for of and for in
+              this loops just print the given array data in the loops
+
+         map()
+             the map method was manipulate the array and give the new data  
+            before map [1,2,3,4,5] *2
+            after map [2,4,6,8,10] 
+
